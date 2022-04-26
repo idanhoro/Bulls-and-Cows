@@ -26,15 +26,15 @@ This project is designed as player vs computer.
 
 This project was writing in C# using .net framework.
 
-<pre> <h3>        Image 1                  Image 2                Image 3</h3>
+<pre> <h3>        Image 1                Image 2              Image 3</h3>
 <img src="./images/number_of_guesses.png" width="200"/> <img src="./images/random_sequence.png" width="200"/> <img src="./images/color_choosing.png" width="200"/>
 </pre>
 
-<pre> <h3>          Image 4                        Image 5</h3>
+<pre> <h3>          Image 4                    Image 5</h3>
 <img src="./images/submit_guess.png" width="245"/> <img src="./images/score.png" width="245"/>
 </pre>
 
-<pre> <h3>         Image 6                      Image 7                       Image 8</h3>
+<pre> <h3>         Image 6                     Image 7                     Image 8</h3>
 <img src="./images/score_1.png" width="240"/> <img src="./images/score_2.png" width="240"/> <img src="./images/score_3.png" width="240"/>
 </pre>
 
