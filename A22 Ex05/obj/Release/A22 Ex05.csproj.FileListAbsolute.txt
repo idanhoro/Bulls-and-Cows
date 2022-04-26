@@ -1,0 +1,11 @@
+C:\Users\97254\source\repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\bin\Release\A22 Ex05 Tomer 315806968 Idan 315342071.exe.config
+C:\Users\97254\source\repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\bin\Release\A22 Ex05 Tomer 315806968 Idan 315342071.exe
+C:\Users\97254\source\repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\bin\Release\A22 Ex05 Tomer 315806968 Idan 315342071.pdb
+C:\Users\97254\source\repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Release\A22 Ex05.csproj.AssemblyReference.cache
+C:\Users\97254\source\repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Release\A22_Ex05.ColorPickForm.resources
+C:\Users\97254\source\repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Release\A22_Ex05.GameTableForm.resources
+C:\Users\97254\source\repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Release\A22_Ex05.SettingsForm.resources
+C:\Users\97254\source\repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Release\A22 Ex05.csproj.GenerateResource.cache
+C:\Users\97254\source\repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Release\A22 Ex05.csproj.CoreCompileInputs.cache
+C:\Users\97254\source\repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Release\A22 Ex05 Tomer 315806968 Idan 315342071.exe
+C:\Users\97254\source\repos\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05 TomerHaina 315806968 IdanHorovitz 315342071\A22 Ex05\obj\Release\A22 Ex05 Tomer 315806968 Idan 315342071.pdb
