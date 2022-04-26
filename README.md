@@ -18,7 +18,7 @@ This project is designed as player vs computer.
    squares (Image 2)
 3) You need to select a sequence of colors as you seem it`s fit (Image 3).
 
-<pre> <h3>        Image 1                Image 2              Image 3</h3>
+<pre> <h3>   Image 1                  Image 2                Image 3</h3>
 <img src="./images/number_of_guesses.png" width="200"/> <img src="./images/random_sequence.png" width="200"/> <img src="./images/color_choosing.png" width="200"/>
 </pre>
 
@@ -28,13 +28,13 @@ This project is designed as player vs computer.
 
    **Note** : the feedback position is not relative to the guess.
 
-<pre> <h3>          Image 4                    Image 5</h3>
+<pre> <h3>   Image 4                       Image 5</h3>
 <img src="./images/submit_guess.png" width="245"/> <img src="./images/score.png" width="245"/>
 </pre>
 
 5) precede submitting your guesses until you guess correctly sequence, or you run out of attempts(Image 6,7,8).
 
-<pre> <h3>         Image 6                     Image 7                     Image 8</h3>
+<pre> <h3>   Image 6                     Image 7                       Image 8</h3>
 <img src="./images/score_1.png" width="240"/> <img src="./images/score_2.png" width="240"/> <img src="./images/score_3.png" width="240"/>
 </pre>
 
