@@ -34,7 +34,7 @@ This project is designed as player vs computer.
 
 5) precede submitting your guesses until you guess correctly sequence, or you run out of attempts(Image 6,7,8).
 
-<pre> <h3>   Image 6                     Image 7                       Image 8</h3>
+<pre> <h3>   Image 6                     Image 7                  Image 8</h3>
 <img src="./images/score_1.png" width="240"/> <img src="./images/score_2.png" width="240"/> <img src="./images/score_3.png" width="240"/>
 </pre>
 
