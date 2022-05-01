@@ -13,7 +13,7 @@ The game is played in turns by two opponents who aim to decipher the other's sec
 ---
 This project is designed as player vs computer.
 
-1) Choose the number of guesses (between 1 and 10) you wish to play(Image 1).
+1) Choose the number of guesses (between 4 and 10) you wish to play(Image 1).
 2) The computer will generate a random sequence of colors the player needs to guess, the sequence covered by black
    squares (Image 2)
 3) You need to select a sequence of colors as you seem it`s fit (Image 3).
